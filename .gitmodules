@@ -1,0 +1,4 @@
+[submodule ".config/bat/submodules/bat"]
+	path = .config/bat/submodules/bat
+	url = git@github.com:catppuccin/bat.git
+	branch = main
